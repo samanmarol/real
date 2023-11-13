@@ -1,2 +1,2 @@
-print (saman marol)
-return(true)
+print (saman.m)
+return()
